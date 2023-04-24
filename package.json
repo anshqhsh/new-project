@@ -12,8 +12,7 @@
     "next": "13.3.1",
     "react": "18.2.0",
     "react-dom": "18.2.0",
-    "sass": "^1.62.0",
-    "lint": "eslint . --ext .js,.jsx,.ts,.tsx"
+    "sass": "^1.62.0"
   },
   "devDependencies": {
     "@types/node": "18.16.0",
@@ -23,8 +22,10 @@
     "eslint-config-airbnb-base": "^15.0.0",
     "eslint-config-next": "13.3.1",
     "eslint-plugin-import": "^2.27.5",
+    "eslint-plugin-prettier": "^4.2.1",
     "eslint-plugin-react": "^7.32.2",
     "eslint-plugin-react-hooks": "^4.6.0",
+    "prettier": "^2.8.8",
     "typescript": "5.0.4"
   }
 }
